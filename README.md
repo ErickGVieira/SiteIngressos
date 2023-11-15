@@ -6,7 +6,7 @@ Uma forma mais detalhada para explicar o fluxograma:
     - Se não houver ingressos disponíveis:
       - O usuário recebe uma mensagem informando que os ingressos estão esgotados.
       - Fim do processo.
-      - 
+        
 2 - Entrar na Fila Virtual:
  - Se houver ingressos disponíveis, o usuário entra na fila virtual.
  - A fila é gerenciada por ordem de chegada.
